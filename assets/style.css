@@ -1,5 +1,36 @@
-h3{
-    text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@600;700&family=Montserrat&display=swap');
+
+html, body{
+    font-family: 'Martel', serif !important;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
+.card {
+    margin-right: 20px !important;
+}
 
+footer.foota{
+    background-color: rgb(78, 77, 77) !important;
+    color: black;
+}
+
+.bgimg {
+    background-image: url(/assets/oldbooks.webp) !important;
+}
+
+a.nav-link.dropdown-toggle{
+    color: black !important;
+}
+
+a.nav-link{
+    color: black;
+}
+
+*{
+    text-align: center;
+    background-color: #f6eadb !important;
+}
+
+.d-inline-block.align-text-bottom {
+    font-size: 50px;
+}
