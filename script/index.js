@@ -110,28 +110,28 @@ books.forEach((data) => {
     <div class="card" style="width: 15rem;">
      <img src="${data.img1}" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">${data.title1}</h5>
+      <h5 class="card-title"><strong>${data.title1}</strong></h5>
       <p class="card-text">${data.text1}</p>
     </div>
   </div>
   <div class="card" style="width: 15rem;">
   <img src="${data.img2}" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">${data.title2}</h5>
+    <h5 class="card-title"><strong>${data.title2}</strong></h5>
     <p class="card-text">${data.text2}</p>
   </div>
 </div>
 <div class="card" style="width: 15rem;">
   <img src="${data.img3}" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">${data.title3}</h5>
+    <h5 class="card-title"><strong>${data.title3}</strong></h5>
     <p class="card-text">${data.text3}</p>
   </div>
 </div>
 <div class="card" style="width: 15rem;">
   <img src="${data.img4}" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">${data.title4}</h5>
+    <h5 class="card-title"><strong>${data.title4}</strong></h5>
     <p class="card-text">${data.text4}</p>
   </div>
 </div>
